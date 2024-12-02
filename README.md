@@ -1,3 +1,1 @@
-# Student_Management_System
-# cosmocloud
-# cosmocloud
+Student_Management_System
